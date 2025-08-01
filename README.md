@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yasmine Mohsen 👋</h1>
 
-<!--
-**yasminemohsen269-collab/yasminemohsen269-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Flutter & Dart Developer</b><br>
+  Passionate about building cross-platform mobile apps with clean UI and smooth user experiences.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 💙 I develop cross-platform mobile apps using **Flutter** and **Dart**  
+- 🔁 I’ve studied **C++** and understand core concepts of **Object-Oriented Programming (OOP)**
+- 🌱 Always learning and improving my design and coding skills
+
+---
+
+### 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=yasminemohsen269-collab&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### 📬 Contact Me
+- 💼 [LinkedIn](https://eg.linkedin.com/in/yasmine-mohsen)
+- 👤 [Facebook](https://www.facebook.com/share/1Fs17P4Zhp/?mibextid=qi2Omg)
+- 📧 yasminemohsen269@gmail.com
+- 🧠 [GitHub Profile](https://github.com/yasminemohsen269-collab)
+
+---
+
+> “I turn ideas into beautiful mobile experiences.”
+
